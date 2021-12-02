@@ -1,0 +1,17 @@
+.currency {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    right: 143px;
+    top: 0;
+    bottom: 118px;
+    background-color: aquamarine;
+    width: 20%;
+    height: 48%;
+    margin: 46px 0;
+    color: #3a3a3a;
+    font-size: 18px;
+    font-weight: 500;
+}

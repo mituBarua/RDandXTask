@@ -1,0 +1,11 @@
+.daily-weather{
+    display: flex;
+    align-items: self-end;
+    justify-content: space-evenly;
+    width: 50%;
+}
+.temp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
